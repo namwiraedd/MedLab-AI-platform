@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+httpx
+psycopg2-binary
+sqlalchemy
+alembic
+python-jose[cryptography]
+aioredis
+pydantic
+requests
+boto3
+python-keycloak
+pytest
